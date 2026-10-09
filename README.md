@@ -1,4 +1,4 @@
-# Customer Shopping Behavior Analysis
+# Customer Shopping Behavior Analysis USING PSQL , PYTHON AND VISUALIZATIONS WITH POWER BI 
 
 ## Project Overview
 
